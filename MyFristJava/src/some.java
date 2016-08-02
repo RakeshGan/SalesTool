@@ -10,6 +10,7 @@ public class some {
 		private static void displayGreeting() {
 		System.out.println("Hello Happy Sales People");
 		System.out.println("This is rakesh");
+		System.out.println("Inital test");
 	}
 
 }
